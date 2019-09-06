@@ -3,5 +3,5 @@
 ## So the bash script will do :
 1. Open path of your project
 2. After your path open run vscod
-3. Open another terminal beside your terminal and open server
-4. Open your project too and run your npm run watch
+3. Open another with new tap and run xampp server
+4. Open your project in another tap and run your npm run watch
