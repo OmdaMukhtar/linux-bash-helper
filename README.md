@@ -10,11 +10,11 @@
 
 ## Preview
 ### php artisan serve
-![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/Screenshot from 2019-10-13 13-29-22.jpg)
+![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/php_artisan_serve.jpg)
 
 ### ./lampp start
-![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/Screenshot from 2019-10-13 13-34-59.png)
+![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/run_lampp.png)
 
 ### npm run watch
-![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/Screenshot from 2019-10-13 13-35-04.png)
+![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/run_npm.png)
 
