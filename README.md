@@ -7,6 +7,7 @@
 3. Open another with new tap and run xampp server
 4. Open your project in another tap and run your npm run watch
 
+
 ## Preview
 ### php artisan serve
 ![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/Screenshot from 2019-10-13 13-29-22.jpg)
@@ -16,5 +17,4 @@
 
 ### npm run watch
 ![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/Screenshot from 2019-10-13 13-35-04.png)
-
 
