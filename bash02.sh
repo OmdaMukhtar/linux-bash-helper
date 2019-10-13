@@ -1,13 +1,22 @@
 
 #!/bin/bash
 
-cd # out from current path to root
+read -p "Pleace enter password (SuperAdmin) : " pass
 
-cd Desktop/folder1/folder2/ # enter to path of my project
+if ["$pass" -z ]
+then 
+	echo "you must enter password !";
+	cd ;
+	exit 1;
+else	
+	cd # out from current path to root
 
-code .  # open my project in vscode
+	cd Desktop/atroha2/atroha/ # enter to path of my project
 
-gnome-terminal --tab --title="server" --command="bash -c 'cd /opt/lampp;echo your_password|sudo -S ./lampp start; $SHELL'" --tab --title="npm" --command="bash -c 'cd; cd Desktop/folder1/folder2;npm run watch; $SHELL'"
+	gnome-terminal	--tab --title="server" --command="bash -c 'cd /opt/lampp;echo $pass|sudo -S ./lampp start; $SHELL'" --tab --title="npm" --command="bash -c 'cd; cd Desktop/atroha2/atroha;npm run watch; $SHELL'"
 
-php artisan serve # run server
+	php artisan serve # run server
+
+	code .  # open my project in vscode
+fi
 
