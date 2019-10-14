@@ -19,3 +19,11 @@
 3. Open another with new tap and run xampp server
 4. Open your project in another tap and run your npm run watch
 
+# How to Use 
+-``` git clone https://github.com/OmdaMukhtar/LinuxBashHelper.git```
+- put file ```bash02.sh``` at any dir in your computer
+- use terminal and change path to path where your ```bash02.sh``` exists
+- in linux run ```chmod +x bash02.sh``` command to make ```bash02.sh``` executable
+- run bash bash02.sh
+
+Then have fun (:
