@@ -26,5 +26,6 @@
 - in Linux run ```chmod +x bash02.sh``` command to make ```bash02.sh``` executable
 - run ```bash bash02.sh```
 - then will ask you to enter your password, entered
+- if you need more explain follow this [link](https://medium.com/@abuoop123/how-to-use-shell-script-to-do-a-little-work-for-you-b79e7462d32e)
 
 Then have fun (:
