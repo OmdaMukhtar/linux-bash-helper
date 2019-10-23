@@ -23,7 +23,8 @@
 -``` git clone https://github.com/OmdaMukhtar/LinuxBashHelper.git```
 - put file ```bash02.sh``` at any dir in your computer
 - use terminal and change path to path where your ```bash02.sh``` exists
-- in linux run ```chmod +x bash02.sh``` command to make ```bash02.sh``` executable
+- in Linux run ```chmod +x bash02.sh``` command to make ```bash02.sh``` executable
 - run ```bash bash02.sh```
+- then will ask you to enter your password, entered
 
 Then have fun (:
