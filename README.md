@@ -34,7 +34,7 @@ fi
 ### npm run watch
 ![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/run_npm.png)
 
-### google-chrome http://localhost:8000
+### google-chrome `http://localhost:8000`
 ![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/google_chrome.png)
 
 
