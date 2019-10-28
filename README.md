@@ -47,6 +47,7 @@ fi
 2. After your path open run vscod
 3. Open another with new tap and run xampp server
 4. Open your project in another tap and run your npm run watch
+5. Open your project on google-chrome with url :`http://localhost:8000`
 
 ## How to Use 
 -``` git clone https://github.com/OmdaMukhtar/LinuxBashHelper.git```
