@@ -34,6 +34,10 @@ fi
 ### npm run watch
 ![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/run_npm.png)
 
+### google-chrome http://localhost:8000
+![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/google_chrome.png)
+
+
 
 # Linux_Bash_Helper
   Its shell scripts that will do or implement for you environment like open your project pass and open it on vscode and open server and then execute npm
