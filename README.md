@@ -34,6 +34,10 @@ fi
 ### npm run watch
 ![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/run_npm.png)
 
+### google-chrome `http://localhost:8000`
+![alt text](https://raw.githubusercontent.com/OmdaMukhtar/LinuxBashHelper/master/img/google_chrome.png)
+
+
 
 # Linux_Bash_Helper
   Its shell scripts that will do or implement for you environment like open your project pass and open it on vscode and open server and then execute npm
@@ -43,6 +47,7 @@ fi
 2. After your path open run vscod
 3. Open another with new tap and run xampp server
 4. Open your project in another tap and run your npm run watch
+5. Open your project on google-chrome with url :`http://localhost:8000`
 
 ## How to Use 
 -``` git clone https://github.com/OmdaMukhtar/LinuxBashHelper.git```
