@@ -1,0 +1,10 @@
+Package: omda-server
+Version: 0.9.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: debconf (>= 0.2.26)
+Maintainer: Emad Aldeen Mukhtar Idrise (Omda)
+Description: This is package I was created just to helping me and other people these use Liunx operation system and use visual studio code with laravel and node module to make them work prefactly without manmual usage"
+
+
